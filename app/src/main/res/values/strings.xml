@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="company_name">CoderBot</string>
+    <string name="slogan">Intelligence Software</string>
+    <string name="title">Schedule Your Life</string>
+    <string name="error">Something went wrong, please try again later.</string>
+    <string name="today_home">Today</string>
+    <string name="today">Today: %1$s</string>
+    <string name="tomorrow">Tomorrow: %1$s</string>
+    <string name="after_tomorrow">After Tomorrow: %1$s</string>
+    <string name="state">%1$s : %2$s°C</string>
+    <string name="max">Max: %1$s°C</string>
+    <string name="min">Min: %1$s°C</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="wind">Wind: %1$sm/s</string>
+    <string name="add">new</string>
+    <string name="tasks">Tasks</string>
+    <string name="weather">Weather</string>
+    <string name="about">About</string>
+    <string name="email">Programmer10107@gmail.com</string>
+    <string name="future_plan">We intent to be the first company that provides the highest quality artificial
+        intelligence software agents.
+    </string>
+    <string name="future_plans">Future Plans</string>
+    <string name="vision">We want to be Leading company providing the highest quality software and makes the human\'s
+        life easier.
+    </string>
+    <string name="vision_title">Vision</string>
+    <string name="about_us">About Us</string>
+</resources>
